@@ -17,6 +17,9 @@ The primary goal is to develop a predictive model that accurately identifies cus
    - Applied three machine learning algorithms (CatBoost, Random Forest, and CART).
    - Evaluated models based on accuracy, F1-score, and AUC.
 
+## Modeling
+
+
 # Catboost_model
 
 ![image](https://github.com/user-attachments/assets/4f6af027-2696-45b3-8201-32e89b5ee51e)
@@ -34,11 +37,6 @@ The primary goal is to develop a predictive model that accurately identifies cus
 
 
 
-## Modeling
-### Algorithms Used:
-- **CatBoost**: Known for handling categorical features well and generally providing high accuracy.
-- **Random Forest**: A robust ensemble method ideal for classification problems.
-- **CART (Classification and Regression Tree)**: A decision tree algorithm for interpretable results.
 
 
 

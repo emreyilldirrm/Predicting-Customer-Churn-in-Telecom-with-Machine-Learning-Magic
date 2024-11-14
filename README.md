@@ -28,12 +28,12 @@ The primary goal is to develop a predictive model that accurately identifies cus
 # Random Forest
 
 ![image](https://github.com/user-attachments/assets/ae092b33-9997-44e7-a87b-caeb375ad392)
-![image](https://github.com/user-attachments/assets/703bc60b-3120-4b4f-8f07-6f41087ff5f0)
+![image](https://github.com/user-attachments/assets/2cfa3fd7-6ef0-459d-af9f-dafe1aed590c)
 
 # Cart
 
 ![image](https://github.com/user-attachments/assets/ca8fbfce-b076-4e17-87a8-943fa80d0a03)
-![image](https://github.com/user-attachments/assets/05336b92-6813-4d9a-953a-78dcee5f3384)
+![image](https://github.com/user-attachments/assets/a2cd9fa2-6182-417a-b134-589a7a1a0e1b)
 
 
 
